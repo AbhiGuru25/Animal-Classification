@@ -1,5 +1,7 @@
 # Animal Classification Web App 🐾
 
+**🌐 Live Demo:** [https://animal-classification-web.streamlit.app/](https://animal-classification-web.streamlit.app/)
+
 An interactive Streamlit web application that uses Deep Learning (CNNs with Transfer Learning) to automatically identify 15 distinct animal species from uploaded images. Built as part of the Unified Mentor Internship Project.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
